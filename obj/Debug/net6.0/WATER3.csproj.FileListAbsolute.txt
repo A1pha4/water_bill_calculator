@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\WATER3\bin\Debug\net6.0\WATER3.exe
+C:\Users\USER\source\repos\WATER3\bin\Debug\net6.0\WATER3.deps.json
+C:\Users\USER\source\repos\WATER3\bin\Debug\net6.0\WATER3.runtimeconfig.json
+C:\Users\USER\source\repos\WATER3\bin\Debug\net6.0\WATER3.dll
+C:\Users\USER\source\repos\WATER3\bin\Debug\net6.0\WATER3.pdb
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\WATER3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\WATER3.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\WATER3.AssemblyInfo.cs
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\WATER3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\WATER3.dll
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\refint\WATER3.dll
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\WATER3.pdb
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\WATER3.genruntimeconfig.cache
+C:\Users\USER\source\repos\WATER3\obj\Debug\net6.0\ref\WATER3.dll

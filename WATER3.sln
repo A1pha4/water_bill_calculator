@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WATER3", "WATER3.csproj", "{42708188-E063-41AE-9D61-5D2F0F46532E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42708188-E063-41AE-9D61-5D2F0F46532E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42708188-E063-41AE-9D61-5D2F0F46532E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42708188-E063-41AE-9D61-5D2F0F46532E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42708188-E063-41AE-9D61-5D2F0F46532E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F294F7-DCB5-401F-BEDF-2C8F5AE67B33}
+	EndGlobalSection
+EndGlobal
