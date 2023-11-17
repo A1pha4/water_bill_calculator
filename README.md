@@ -1,7 +1,7 @@
 # Calculator Console App
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.1%20%7C%205.0%20%7C%206.0-blue)
-The Water Bill Calculator is a simple C# application designed to help users estimate their water bills based on input parameters such as usage, rates, and other relevant factors. This calculator aims to provide users with a quick and easy way to get an approximate idea of their water expenses.
-![water_bill_interface]([user_interface.png](https://github.com/A1pha4/water_bill_calculator/blob/main/water%20bill%20interface.png))
+- The Water Bill Calculator is a simple C# application designed to help users estimate their water bills based on input parameters such as usage, rates, and other relevant factors. This calculator aims to provide users with a quick and easy way to get an approximate idea of their water expenses.
+![water_bill_interface](https://github.com/A1pha4/water_bill_calculator/blob/main/water%20bill%20interface.png)
 
 
 ## Features
